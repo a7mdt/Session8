@@ -81,7 +81,7 @@ int main() {
             make the user enters testcases till he stop the code.
     */
 
-    int seats[4][4] = {
+    /* int seats[4][4] = {
         {1,0,0,1},
         {0,1,1,1},
         {1,0,0,0},
@@ -109,7 +109,7 @@ int main() {
 
         cout << "Do u want to continue? (y/n): ";
         cin >> choice;
-    }
+    } */
 
     return 0;
 }

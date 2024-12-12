@@ -70,14 +70,7 @@ int main() {
     */
 
     /*
-        2-  Create a program that has 3 SEQUENCEs and put an unknown number and ask the user to enter
-            then show him His Score.
-    */
-
-    
-
-    /*
-        3-  Create a classroom program that has 3x4 Seats each Seat should Have a value (1 for taken) and (0 for free)
+        2-  Create a classroom program that has 3x4 Seats each Seat should Have a value (1 for taken) and (0 for free)
             make the user enters testcases till he stop the code.
     */
 
